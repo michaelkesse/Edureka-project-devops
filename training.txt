@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>First Assignment</h1>
+<p>Completed by Michael Asare</p>
 
 </body>
 </html> 
